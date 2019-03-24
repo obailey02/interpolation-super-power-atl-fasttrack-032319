@@ -7,3 +7,4 @@ letters = ["b","a", "c"]
 puts "the firs letter in the alphabet is {letters [1]}"
 puts "the second letter in the alphabet is {letters[0]}"
 puts "the third letter in the is: {letters[2]}"
+end
